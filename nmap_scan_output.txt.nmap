@@ -1,0 +1,7 @@
+# Nmap 7.94SVN scan initiated Tue Feb 20 06:21:00 2024 as: nmap -oA nmap_scan_output.txt 127.0.0.1
+Nmap scan report for ahalya (127.0.0.1)
+Host is up (0.00023s latency).
+All 1000 scanned ports on ahalya (127.0.0.1) are in ignored states.
+Not shown: 1000 closed tcp ports (conn-refused)
+
+# Nmap done at Tue Feb 20 06:21:00 2024 -- 1 IP address (1 host up) scanned in 0.05 seconds
